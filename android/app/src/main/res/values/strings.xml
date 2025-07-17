@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hassan Coffee</string>
+    <string name="title_activity_main">Hassan Coffee</string>
+    <string name="package_name">com.hassan.coffee</string>
+    <string name="custom_url_scheme">com.hassan.coffee</string>
+</resources>
